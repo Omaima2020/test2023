@@ -1,0 +1,14 @@
+ Le volume dans le lecteur C n'a pas de nom.
+ Le num‚ro de s‚rie du volume est D49C-82EB
+
+ R‚pertoire de C:\Users\omaima.benbouk\Desktop\test 2021
+
+15/04/2021  22:33    <DIR>          .
+15/04/2021  22:33    <DIR>          ..
+15/04/2021  20:49               269 CTA_01_test_page_authentification.tc
+15/04/2021  21:12                48 test1.txt
+15/04/2021  21:54                 0 test2.docx
+15/04/2021  21:45             6ÿ542 test3.xlsx
+15/04/2021  22:33                 0 test4.txt
+               5 fichier(s)            6ÿ859 octets
+               2 R‚p(s)  363ÿ356ÿ352ÿ512 octets libres
